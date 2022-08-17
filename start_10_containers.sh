@@ -1,0 +1,10 @@
+docker run --rm -d --network host -v ${PWD}/target/streams.examples-0.1-jar-with-dependencies.jar:/tmp/target/streams.examples-0.1-jar-with-dependencies.jar --name xx0 xx
+docker run --rm -d --network host -v ${PWD}/target/streams.examples-0.1-jar-with-dependencies.jar:/tmp/target/streams.examples-0.1-jar-with-dependencies.jar --name xx1 xx
+docker run --rm -d --network host -v ${PWD}/target/streams.examples-0.1-jar-with-dependencies.jar:/tmp/target/streams.examples-0.1-jar-with-dependencies.jar --name xx2 xx
+docker run --rm -d --network host -v ${PWD}/target/streams.examples-0.1-jar-with-dependencies.jar:/tmp/target/streams.examples-0.1-jar-with-dependencies.jar --name xx3 xx
+docker run --rm -d --network host -v ${PWD}/target/streams.examples-0.1-jar-with-dependencies.jar:/tmp/target/streams.examples-0.1-jar-with-dependencies.jar --name xx4 xx
+docker run --rm -d --network host -v ${PWD}/target/streams.examples-0.1-jar-with-dependencies.jar:/tmp/target/streams.examples-0.1-jar-with-dependencies.jar --name xx5 xx
+docker run --rm -d --network host -v ${PWD}/target/streams.examples-0.1-jar-with-dependencies.jar:/tmp/target/streams.examples-0.1-jar-with-dependencies.jar --name xx6 xx
+docker run --rm -d --network host -v ${PWD}/target/streams.examples-0.1-jar-with-dependencies.jar:/tmp/target/streams.examples-0.1-jar-with-dependencies.jar --name xx7 xx
+docker run --rm -d --network host -v ${PWD}/target/streams.examples-0.1-jar-with-dependencies.jar:/tmp/target/streams.examples-0.1-jar-with-dependencies.jar --name xx8 xx
+docker run --rm -d --network host -v ${PWD}/target/streams.examples-0.1-jar-with-dependencies.jar:/tmp/target/streams.examples-0.1-jar-with-dependencies.jar --name xx9 xx
